@@ -1,9 +1,0 @@
-What does our app want?
--Basicly nothing. We do not receive any kind of information about you. We do not want your e-mail adress, phone number, location, files or anything.
-
-Does our app use ads?
--Yes. The advertisements we used are appropriate to any age group. We use AdMob from Google as ad provider.
-
-Is our app appropriate to children?
--Yes. Everything we used in our app is so childish and funny. Everyone can use our app with no doubt.
-
